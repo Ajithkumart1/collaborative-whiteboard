@@ -547,7 +547,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@your-username](https://github.com/Ajithkumart1)
+- GitHub: (https://github.com/Ajithkumart1)
 - Email: ajithkumart111@gmail.com
 
 ## 🙏 Acknowledgments
